@@ -1,0 +1,8 @@
+/*.class
+/.idea
+/.gradle
+/macaront-app/build/
+/macaront-framework/build/
+/tomcat.8080/
+/gradlew
+/gradlew.bat
