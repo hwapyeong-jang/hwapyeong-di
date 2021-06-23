@@ -32,7 +32,6 @@ public class ReflectionTests {
         getNameMethod.invoke(clazz);
 
         Test test = testConstructor.newInstance();
-        method.invoke(clazz);
 
         nameField.set(test, "name is");
         method.invoke(test);
