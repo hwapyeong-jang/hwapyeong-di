@@ -1,0 +1,4 @@
+rootProject.name = 'macaront-di'
+include 'macaront-framework'
+include 'macaront-app'
+
